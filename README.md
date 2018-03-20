@@ -17,3 +17,6 @@ Change 1!
 
 Stash Change 1!
 >>>>>>> Stashed changes
+
+
+Online changes in master 1
