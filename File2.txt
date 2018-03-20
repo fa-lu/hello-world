@@ -1,9 +1,4 @@
-<<<<<<< Updated upstream
 After stash!
 
 Change 12.3
 
-
-=======
-After stash!
->>>>>>> Stashed changes
