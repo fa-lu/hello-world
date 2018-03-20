@@ -1,1 +1,3 @@
 After stash!
+
+stash push
