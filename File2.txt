@@ -1,11 +1,13 @@
-After stash!
-
-Change 12.3
+#include iostream
 
 
-This is a change made online to test git rebase. 1
+main(){
 
-change two for rebase testing.
 
-newofflingfeature
+function_call1();
 
+
+}
+
+
+the_new_feature();
