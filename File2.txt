@@ -11,3 +11,4 @@ function_call1();
 
 
 the_new_feature();
+a_second_new_feature();
