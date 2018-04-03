@@ -3,7 +3,7 @@
 
 main(){
 
-
+change_only_in_master();q
 function_call1();
 
 
