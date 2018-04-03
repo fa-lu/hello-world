@@ -1,7 +1,9 @@
-Only added in test branch file2
 After stash!
 
 Change 12.3
-asdf
 
-Only added in test_branch
+
+This is a change made online to test git rebase. 1
+
+change two for rebase testing.
+
