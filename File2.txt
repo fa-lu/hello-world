@@ -3,4 +3,6 @@ After stash!
 Change 12.3
 
 
-This is a change made online to test git rebase.
+This is a change made online to test git rebase. 1
+
+change two for rebase testing.
