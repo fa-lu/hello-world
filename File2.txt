@@ -8,5 +8,3 @@ function_call1();
 
 
 }
-
-the_new_feature();
