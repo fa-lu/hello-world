@@ -9,3 +9,4 @@ newchange;
 
 }
 masterfeature1();
+masterfeature2();
